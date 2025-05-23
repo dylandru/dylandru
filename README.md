@@ -1,6 +1,6 @@
 # Dylan Drummey (dylandru) 👋
 
-I'm a developer and researcher working with the Chicago Cubs as a Baseball Sciences Analyst (June 2025). With a strong passion for baseball, data analytics, and computer vision along with experience working for the *Brewers*, *Kentucky Baseball*, and *Prep Baseball*, the projects included in this repository represent a great portion of my public work.
+I'm a developer and researcher working with the **Chicago Cubs** as a Baseball Sciences Analyst (June 2025). With a strong passion for baseball, data analytics, and computer vision along with experience working for the *Brewers*, *Kentucky Baseball*, and *Prep Baseball*, the projects included in this repository represent a great portion of my public work.
 
 ## 📝 Writings & Research
 
